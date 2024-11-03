@@ -13,7 +13,7 @@
     <a href="/blog">blog</a>
     <a href="/contact">contact</a>
     <h1>Halaman About</h1>
-    <h3>Owner : {{ $nama }}</h3>
-    <img src="img/spiderman.jpg" alt="spiderman" width="200">
+    <h3>Owner : {{ $name }}</h3>
+    <img src="img/spiderman.jpg" alt="" width="200">
 </body>
 </html>
